@@ -58,5 +58,19 @@
     "content": "✈️ Новые самолёты:\n\n- Eurofighter Typhoon\n- Rafale\n- J-10A\n\n🎨 Обновлены модели и камуфляжи:\n\n- F-16\n- F/A-18\n- МиГ-31\n- МиГ-35\n\n📡 Добавлены новые радары и СПО для различных самолётов\n\n🚀 Новое вооружение:\n\n- AIM-120\n- AIM-54A\n- Р-77\n- MICA EM\n- AASM 250 HAMMER\n- LS-6/250 и LS-6/500\n\n🌊 Новые морские фоны, обновлённый песчаный фон и ночной режим\n\n🎧 Добавлена возможность включать свою музыку во время боя\n\n🎨 Добавлена возможность устанавливать собственные скины\n\n🎙 Добавлены новые речевые информаторы\n\n👁 Добавлена возможность скрывать интерфейс во время боя\n\n🎯 Обновлена панель просмотра вооружения и прицелы для НАР\n\n✨ Обновлена графика и эффекты\n\n🔧 Исправлены различные ошибки и внесены другие небольшие улучшениям\n\n➕ И многое другое!",
     "content_en": "✈️ New aircraft:\n\n- Eurofighter Typhoon\n- Rafale\n- J-10A\n\n🎨 Updated models and camouflages:\n\n- F-16\n- F/A-18\n- MiG-31\n- MiG-35\n\n📡 Added new radars and RWR (Radar Warning Receiver) systems for various aircraft\n\n🚀 New weaponry:\n\n- AIM-120\n- AIM-54A\n- R-77\n- MICA EM\n- AASM 250 HAMMER\n- LS-6/250 and LS-6/500\n\n🌊 New maritime backgrounds, an updated desert/sandy background, and a night mode\n\n🎧 Added the ability to play your own music during combat\n\n🎨 Added the ability to install custom skins\n\n🎙 Added new voice warning/announcement systems\n\n👁 Added the option to hide the user interface during combat\n\n🎯 Updated the weapon viewing panel and sights for unguided rockets (NAR)\n\n✨ Updated graphics and effects\n\n🔧 Fixed various bugs and made other minor improvements\n\n➕ And much more!",
     "content_ua": "✈️ Нові літаки:\n\n- Eurofighter Typhoon\n- Rafale\n- J-10A\n\n🎨 Оновлені моделі та камуфляжі:\n\n- F-16\n- F/A-18\n- МіГ-31\n- МіГ-35\n\n📡 Додані нові радари та СПО для різних літаків\n\n🚀 Нове озброєння:\n\n- AIM-120\n- AIM-54A\n- Р-77\n- MICA EM\n- AASM 250 HAMMER\n- LS-6/250 та LS-6/500\n\n🌊 Нові морські фони, оновлений піщаний фон та нічний режим\n\n🎧 Додана можливість включати свою музику під час бою\n\n🎨 Додана можливість встановлювати власні скіни\n\n🎙 Додані нові мовні інформатори\n\n👁 Додана можливість приховувати інтерфейс під час бою\n\n🎯 Оновлено панель перегляду озброєння та приціли для НАР\n\n✨ Оновлено графіку та ефекти\n\n🔧 Виправлені різні помилки та внесені інші невеликі покращення\n\n➕ І багато іншого!"
+  },
+  {
+    "slug": "updatev1.1401",
+    "published": true,
+    "published_at": "2026-10-31",
+    "title": "Обновление v1.1401",
+    "title_en": "Update v1.1401",
+    "title_ua": "Оновлення v1.1401",
+    "description": "Уведомления об ракетах, мультиплеер!",
+    "description_en": "Missile alerts, multiplayer!",
+    "description_ua": "Повідомлення про ракети, мультиплеєр!",
+    "content": "Изменения:\n\nМультиплеер 2 на 2\n\nПервая ветка самолётов: Су-30СМ → Су-30СМ2\n\nВернулась надпись «Пуск!» при входящей ИК-ракете\n\nНастройка спавна в свободном полёте: минимальную дистанцию появления истребителей можно выбрать от 5 до 70 км\n\nДругие небольшие изменения",
+    "content_en": "Changes:\n\n2v2 multiplayer\n\nFirst aircraft branch: Su-30SM → Su-30SM2\n\nThe \"Launch!\" warning has returned for incoming IR-guided missiles\n\nSpawn settings in free flight: the minimum spawn distance for fighters can now be set between 5 and 70 km\n\nOther minor changes",
+    "content_ua": "Зміни:\n\nМультиплеєр 2 на 2\n\nПерша гілка літаків: Су-30СМ → Су-30СМ2\n\nПовернувся напис «Пуск!» при вхідній ІЧ-ракеті\n\nНалаштування спавна у вільному польоті: мінімальну дистанцію появи винищувачів можна вибрати від 5 до 70 км.\n\nІнші невеликі зміни"
   }
 ]
